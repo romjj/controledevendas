@@ -1,4 +1,4 @@
-package br.com.venda.model;
+package br.com.vendas.model;
 
 public class Clientes {
 
